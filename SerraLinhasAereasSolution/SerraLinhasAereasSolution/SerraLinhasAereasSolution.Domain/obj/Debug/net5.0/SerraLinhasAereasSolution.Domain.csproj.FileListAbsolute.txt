@@ -1,0 +1,12 @@
+C:\Users\André\OneDrive\Área de Trabalho\Serra Linhas Aéreas\SerraLinhasAereasSolution\SerraLinhasAereasSolution\SerraLinhasAereasSolution.Domain\bin\Debug\net5.0\SerraLinhasAereasSolution.Domain.deps.json
+C:\Users\André\OneDrive\Área de Trabalho\Serra Linhas Aéreas\SerraLinhasAereasSolution\SerraLinhasAereasSolution\SerraLinhasAereasSolution.Domain\bin\Debug\net5.0\SerraLinhasAereasSolution.Domain.dll
+C:\Users\André\OneDrive\Área de Trabalho\Serra Linhas Aéreas\SerraLinhasAereasSolution\SerraLinhasAereasSolution\SerraLinhasAereasSolution.Domain\bin\Debug\net5.0\SerraLinhasAereasSolution.Domain.pdb
+C:\Users\André\OneDrive\Área de Trabalho\Serra Linhas Aéreas\SerraLinhasAereasSolution\SerraLinhasAereasSolution\SerraLinhasAereasSolution.Domain\obj\Debug\net5.0\SerraLinhasAereasSolution.Domain.csproj.AssemblyReference.cache
+C:\Users\André\OneDrive\Área de Trabalho\Serra Linhas Aéreas\SerraLinhasAereasSolution\SerraLinhasAereasSolution\SerraLinhasAereasSolution.Domain\obj\Debug\net5.0\SerraLinhasAereasSolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André\OneDrive\Área de Trabalho\Serra Linhas Aéreas\SerraLinhasAereasSolution\SerraLinhasAereasSolution\SerraLinhasAereasSolution.Domain\obj\Debug\net5.0\SerraLinhasAereasSolution.Domain.AssemblyInfoInputs.cache
+C:\Users\André\OneDrive\Área de Trabalho\Serra Linhas Aéreas\SerraLinhasAereasSolution\SerraLinhasAereasSolution\SerraLinhasAereasSolution.Domain\obj\Debug\net5.0\SerraLinhasAereasSolution.Domain.AssemblyInfo.cs
+C:\Users\André\OneDrive\Área de Trabalho\Serra Linhas Aéreas\SerraLinhasAereasSolution\SerraLinhasAereasSolution\SerraLinhasAereasSolution.Domain\obj\Debug\net5.0\SerraLinhasAereasSolution.Domain.csproj.CoreCompileInputs.cache
+C:\Users\André\OneDrive\Área de Trabalho\Serra Linhas Aéreas\SerraLinhasAereasSolution\SerraLinhasAereasSolution\SerraLinhasAereasSolution.Domain\obj\Debug\net5.0\SerraLinhasAereasSolution.Domain.dll
+C:\Users\André\OneDrive\Área de Trabalho\Serra Linhas Aéreas\SerraLinhasAereasSolution\SerraLinhasAereasSolution\SerraLinhasAereasSolution.Domain\obj\Debug\net5.0\refint\SerraLinhasAereasSolution.Domain.dll
+C:\Users\André\OneDrive\Área de Trabalho\Serra Linhas Aéreas\SerraLinhasAereasSolution\SerraLinhasAereasSolution\SerraLinhasAereasSolution.Domain\obj\Debug\net5.0\SerraLinhasAereasSolution.Domain.pdb
+C:\Users\André\OneDrive\Área de Trabalho\Serra Linhas Aéreas\SerraLinhasAereasSolution\SerraLinhasAereasSolution\SerraLinhasAereasSolution.Domain\obj\Debug\net5.0\ref\SerraLinhasAereasSolution.Domain.dll

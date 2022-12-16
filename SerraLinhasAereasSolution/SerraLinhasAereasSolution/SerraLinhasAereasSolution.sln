@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerraLinhasAereasSolution.Domain", "SerraLinhasAereasSolution.Domain\SerraLinhasAereasSolution.Domain.csproj", "{45DDBC70-0C9C-4878-85F5-D0ED40BF115A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerraLinhasAereasSolution.Infra.Data", "SerraLinasAereasSolution.Infra.Data\SerraLinhasAereasSolution.Infra.Data.csproj", "{6DE016BC-B3E3-40C3-95CA-EF7C734BECA6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{45DDBC70-0C9C-4878-85F5-D0ED40BF115A} = {45DDBC70-0C9C-4878-85F5-D0ED40BF115A}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerraLinhasAereasSolution.WebAPI", "SerraLinhasAereas.WebAPI\SerraLinhasAereasSolution.WebAPI.csproj", "{3D59CB22-B141-4B92-97A6-A6EB64B52628}"
+	ProjectSection(ProjectDependencies) = postProject
+		{45DDBC70-0C9C-4878-85F5-D0ED40BF115A} = {45DDBC70-0C9C-4878-85F5-D0ED40BF115A}
+		{6DE016BC-B3E3-40C3-95CA-EF7C734BECA6} = {6DE016BC-B3E3-40C3-95CA-EF7C734BECA6}
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SerraLinhasAereas.Domain", "SerraLinhasAereas.Domain", "{066BADA3-8837-4DDF-95C7-8FC55BC45DCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SerraLinhasAereas.Infra.Data", "SerraLinhasAereas.Infra.Data", "{FC942A66-86F4-49FB-99AB-587BF3606BAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SerraLinhasAereas.WebAPI", "SerraLinhasAereas.WebAPI", "{5607D198-8AFC-42C5-8B70-98AC599C0833}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45DDBC70-0C9C-4878-85F5-D0ED40BF115A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DDBC70-0C9C-4878-85F5-D0ED40BF115A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DDBC70-0C9C-4878-85F5-D0ED40BF115A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DDBC70-0C9C-4878-85F5-D0ED40BF115A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE016BC-B3E3-40C3-95CA-EF7C734BECA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE016BC-B3E3-40C3-95CA-EF7C734BECA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE016BC-B3E3-40C3-95CA-EF7C734BECA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE016BC-B3E3-40C3-95CA-EF7C734BECA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D59CB22-B141-4B92-97A6-A6EB64B52628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D59CB22-B141-4B92-97A6-A6EB64B52628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D59CB22-B141-4B92-97A6-A6EB64B52628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D59CB22-B141-4B92-97A6-A6EB64B52628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{45DDBC70-0C9C-4878-85F5-D0ED40BF115A} = {066BADA3-8837-4DDF-95C7-8FC55BC45DCB}
+		{6DE016BC-B3E3-40C3-95CA-EF7C734BECA6} = {FC942A66-86F4-49FB-99AB-587BF3606BAF}
+		{3D59CB22-B141-4B92-97A6-A6EB64B52628} = {5607D198-8AFC-42C5-8B70-98AC599C0833}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E10E49A9-55C0-4D15-805E-EEBDF0E504BB}
+	EndGlobalSection
+EndGlobal
